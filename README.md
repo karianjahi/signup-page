@@ -10,12 +10,18 @@ This project is a responsive registration form built using HTML and CSS. It is d
 
 ---
 
+## 🖼️ Preview
+
+![Registration Form Preview](images/preview.png)
+
 ## 📁 Project Structure
 
-registration-form/ <br>
+registration-form/<br>
 │<br>
 ├── index.html # Main HTML structure of the registration form<br>
 ├── styles.css # Styling and layout rules for the form<br>
+├── images/<br>
+│ └── preview.png # Screenshot of the rendered form<br>
 └── README.md # Project documentation<br>
 
 
