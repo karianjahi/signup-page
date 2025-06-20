@@ -12,11 +12,11 @@ This project is a responsive registration form built using HTML and CSS. It is d
 
 ## 📁 Project Structure
 
-registration-form/
-│
-├── index.html # Main HTML structure of the registration form
-├── styles.css # Styling and layout rules for the form
-└── README.md # Project documentation
+registration-form/ <br>
+│<br>
+├── index.html # Main HTML structure of the registration form<br>
+├── styles.css # Styling and layout rules for the form<br>
+└── README.md # Project documentation<br>
 
 
 ---
