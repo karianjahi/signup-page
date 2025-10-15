@@ -81,7 +81,7 @@ registration-form/<br>
 1. **Download or clone** this repository:
 
 ```bash
-git clone https://github.com/yourusername/registration-form.git
+git clone https://github.com/karianjahi/registration-form.git
 ```
 
 
